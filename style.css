@@ -43,7 +43,7 @@ h1 {
 .btn {
     padding: 15px 30px;
     margin: 0 10px;
-    font-size: 2px;
+    font-size: 2vr;
     border: none;
     border-radius: 5px;
     background: linear-gradient(120deg, #2ecc71, #7ad109);
